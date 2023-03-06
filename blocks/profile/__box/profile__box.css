@@ -1,0 +1,14 @@
+.profile__box {
+    display: grid;
+    margin: 0;
+    padding: 0;
+    grid-template-areas: "img title edit-btn" "img job .";
+    row-gap: 16px;
+}
+
+@media only screen and (max-width: 767px) {
+    .profile__box {
+       grid-template-areas:"img img" "title edit-btn" "job job";
+       row-gap: 0;
+    }
+}
