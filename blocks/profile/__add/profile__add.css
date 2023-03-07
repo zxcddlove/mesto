@@ -4,6 +4,7 @@
     background: url(../../../images/add.svg) no-repeat;
     background-position: center;
     background-size: 24px 24px;
+    border-radius: 2px;
     margin: 0;
     padding: 0;
     border: 2px solid #fff;

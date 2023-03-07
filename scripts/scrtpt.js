@@ -12,7 +12,7 @@ const jobTitle = document.getElementById('job');
 function showPopup () {
     popup.classList.add('popup_opened');
     nameTitle.value = profileName.textContent;
-    statusTitle.value = profileJob.textContent;
+    jobTitle.value = profileJob.textContent;
 }
 
 function hidePopup () {

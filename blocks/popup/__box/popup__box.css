@@ -11,10 +11,7 @@
     background-color: #fff;
     border-radius: 10px;
     padding: 34px 36px 37px;
-    position: fixed;
-    left: 50%;
-    top: 50vh;
-    transform: translate(-50%, -50%);
+    position: fixed; 
     box-sizing: border-box;
 }
 
