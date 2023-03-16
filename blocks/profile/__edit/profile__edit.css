@@ -3,8 +3,10 @@
     margin-bottom: 9px;
     background: url(../../../images/edit.svg);
     background-repeat: no-repeat;
-    background-size: 10px 10px;
-    background-position: center;
+    background-size: 10px;
+    background-position-x: 50%;
+    background-position-y: center;
+   /* background-position: center;*/
     border: 1px solid #fff;
     grid-area: edit-btn;
     width: 24px;

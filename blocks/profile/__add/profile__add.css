@@ -3,7 +3,7 @@
     height: 50px;
     background: url(../../../images/add.svg) no-repeat;
     background-position: center;
-    background-size: 24px 24px;
+    background-size: 22px;
     border-radius: 2px;
     margin: 0;
     padding: 0;
@@ -19,5 +19,6 @@
 @media only screen and (max-width: 767px) {
     .profile__add {
         width: 100%;
+        background-size: 16px;
     }
 }

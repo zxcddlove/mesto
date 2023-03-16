@@ -4,8 +4,8 @@
     width: 32px;
     height: 32px;
     position: absolute;
-    left: 102%;
-    top: -12%;
+    left: 64.8%;
+    top: 20.5%;
     border: none;
     background: url(../../../images/exit.svg);
     background-size: contain;
@@ -21,8 +21,8 @@
     .popup__cancel {
         width: 20px;
         height: 20px;
-        left: 95%;
-        top: -10%;
+        left: 87.9%;
+        top: 24.5%;
         /*transform: translateX(-50%);*/
     }
 }
