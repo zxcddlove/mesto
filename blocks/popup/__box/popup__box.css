@@ -3,10 +3,8 @@
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    padding: 0;
     height: 330px;
     border: none;
-    flex-direction: column;
     gap: 30px;
     background-color: #fff;
     border-radius: 10px;
