@@ -17,6 +17,7 @@
         align-self: unset;
         font-size: 27px;
         line-height: 33px;
-        padding-left: 25px;
+        margin-left: 20px;
+        text-align: right;
     }
 }

@@ -1,6 +1,7 @@
 .profile__box {
     display: grid;
     margin: 0;
+    max-width: 485px;
     padding: 0;
     grid-template-areas: "img title edit-btn" "img job .";
     row-gap: 16px;
@@ -10,7 +11,6 @@
     .profile__box {
        grid-template-areas:"img img" "title edit-btn" "job job";
        row-gap: 0;
-       /*align-self: center;
-       align-items: center;*/
+       grid-template-columns: min-content;
     }
 }
