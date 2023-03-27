@@ -11,6 +11,5 @@
     .profile__box {
        grid-template-areas:"img img" "title edit-btn" "job job";
        row-gap: 0;
-       grid-template-columns: min-content;
     }
 }
